@@ -230,7 +230,7 @@ function App() {
               a unified conversation system.
             </p>
 
-            <div className="tags">
+            <div className="proj-tags">
               <span>Python</span>
               <span>Django</span>
               <span>OpenAI</span>
@@ -258,7 +258,7 @@ function App() {
               workflows and RAG.
             </p>
 
-            <div className="tags">
+            <div className="proj-tags">
               <span>Python</span>
               <span>LangGraph</span>
               <span>OpenAI</span>
@@ -280,7 +280,7 @@ function App() {
               through one complete backend system.
             </p>
 
-            <div className="tags">
+            <div className="proj-tags">
               <span>Python</span>
               <span>Django</span>
               <span>DRF</span>
@@ -301,7 +301,7 @@ function App() {
 
             <p>Machine learning analysis project exploring student performance data to identify patterns and meaningful academic insights.</p>
 
-            <div className="tags">
+            <div className="proj-tags">
               <span>Python</span>
               <span>Machine Learning</span>
               <span>AI</span>
@@ -317,7 +317,7 @@ function App() {
 
             <p>NLP and LSTM-based project for generating multiple-choice questions from learning content.</p>
 
-            <div className="tags">
+            <div className="proj-tags">
               <span>Python</span>
               <span>NLP</span>
               <span>LSTM</span>
@@ -333,7 +333,7 @@ function App() {
 
             <p>RFM analysis project using customer purchase behavior to group online retail customers into useful segments.</p>
 
-            <div className="tags">
+            <div className="proj-tags">
               <span>Python</span>
               <span>Data Science</span>
               <span>K-Means</span>

@@ -99,8 +99,8 @@ main { max-width: 1080px; margin: auto; padding: 0 32px; }
 .project-card { min-height: 280px; display: flex; flex-direction: column; align-items: flex-start; }
 .project-number { display: flex; align-items: center; gap: 12px; margin-bottom: 28px; }
 .project-card h3 { font-size: 24px; }
-.tags { display: flex; flex-wrap: wrap; gap: 7px; margin: 20px 0 auto; padding-top: 16px; }
-.tags span { padding: 5px 9px; color: var(--accent); background: var(--accent-soft); font-family: var(--mono); font-size: 11px; }
+.proj-tags { display: flex; flex-wrap: wrap; gap: 7px; margin: 20px 0 auto; padding-top: 16px; }
+.proj-tags span { padding: 5px 9px; color: var(--accent); background: var(--accent-soft); font-family: var(--mono); font-size: 11px; }
 .project-card a { padding-top: 18px; color: var(--accent); font-size: 13px; font-weight: 600; text-decoration: none; }
 .project-status { padding-top: 18px; color: var(--muted); font-family: var(--mono); font-size: 12px; }
 .writing-card { display: grid; grid-template-columns: auto 1fr auto; gap: 28px; align-items: center; max-width: 820px; margin-top: 36px; padding: 28px; background: var(--panel); border: 1px solid var(--line); }
